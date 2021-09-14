@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bekirprojemobil</string>
+    <string name="login_logo">HESAP MODULUNE GIRIS
+        mail:mobildersi@gmail.com sifre:mobil</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Giris</string>
+    <string name="dashboard_title">Hosgeldiniz</string>
+    <string name="splash_screen_title">HOŞGELDİNİZ</string>
+</resources>
